@@ -55,6 +55,18 @@ a:hover {
   color: white
 }
 
+.card-background-img {
+  width: 100%
+}
+
+.card-skills-img {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card
+
 header {
   text-align: center;
   background: url('images/header-thepuzzlers-blog-new-zealand-mount-sunday.jpg') no-repeat top center ;
